@@ -1,7 +1,7 @@
 # Kria-HASA
 Home Assist Situational Awareness using Kria KV260
 
-For my code, I leveraged the tfsdd example.
+For my code, I leveraged the [tfsdd example](https://github.com/Xilinx/Vitis-AI/tree/master/demo/Vitis-AI-Library/samples/tfssd).
 
 File structure:
 
