@@ -4,6 +4,7 @@ Home Assist Situational Awareness using Kria KV260
 For my code, I leveraged the tfsdd example.
 
 File structure:
+
 /home/Vitis-AI/demo/Vitis-AI-Library/samples/tfsdd/
   - process_result.hpp
   - test_video_tfssd.cpp
