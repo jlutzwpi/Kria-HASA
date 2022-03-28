@@ -21,7 +21,7 @@ ssd_mobilenet_v2_coco_tf (downloadable from the [Vitis AI Model Zoo](https://git
 To build:
 
 >  cd /Vitis-AI/demo/Vitis-AI-Library/samples/tfssd/
->  ./build.sh
+>  ``./build.sh``
 
 Note: Ensure that nlp-smartvision is loaded before starting the executable!
 
